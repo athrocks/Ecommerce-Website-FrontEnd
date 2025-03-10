@@ -16,6 +16,7 @@ import Categories from "./Filters/Categories";
 import ColorsFilter from "./Filters/ColorsFilter";
 import PriceFilter from "./Filters/PriceFilter";
 import SizeFilter from "./Filters/SizeFilter";
+import SvgFavourite from "./common/SvgFavourite";
 
 
 export {
@@ -36,5 +37,6 @@ export {
   Categories,
   ColorsFilter,
   PriceFilter,
-  SizeFilter
+  SizeFilter,
+  SvgFavourite
 };

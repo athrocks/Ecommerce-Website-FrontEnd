@@ -7,6 +7,7 @@ import {
   SizeFilter,
 } from "../../components";
 import content from "../../data/content.json";
+import {ProductCard} from "..";
 
 const categories = content?.categories;
 
@@ -14,6 +15,12 @@ const ProductListPage = ({ categoryType }) => {
   const categoryContent = useMemo(() => {
     return categories?.find((category) => category.code === categoryType);
   }, [categoryType]);
+
+  const productListItems = useMemo(() => {
+    return content?.products?.filter(
+      (product) => product?.category_id === categoryContent?.id
+    );
+  }, [categoryContent]);
 
   return (
     <div>
@@ -27,33 +34,32 @@ const ProductListPage = ({ categoryType }) => {
           <div>
             {/* Product types */}
             <p className="text-[16px] text-black mt-5">Categories</p>
-            {/* <Categories types={categoryContent?.types} /> */}
+            <Categories types={categoryContent?.types} />
             <hr></hr>
           </div>
           {/* Price */}
-          {/* <PriceFilter /> */}
+          <PriceFilter />
           <hr></hr>
           {/* Colors */}
-          {/* <ColorsFilter colors={categoryContent?.meta_data?.colors} /> */}
+          <ColorsFilter colors={categoryContent?.meta_data?.colors} />
           <hr></hr>
           {/* Sizes */}
-          {/* <SizeFilter sizes={categoryContent?.meta_data?.sizes} /> */}
+          <SizeFilter sizes={categoryContent?.meta_data?.sizes} />
         </div>
+
         <div className="p-[15px]">
           {/* Displaying Products */}
-          <p className="text-black text-lg">
-            {categoryContent?.description}
-          </p>
+          <p className="text-black text-lg">{categoryContent?.description}</p>
           {/* Products */}
-          {/* <div className="pt-4 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-8 px-2">
-            {products?.map((item, index) => (
+          <div className="pt-4 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-8 px-2">
+            {productListItems?.map((item, index) => (
               <ProductCard
                 key={item?.id + "_" + index}
                 {...item}
                 title={item?.name}
               />
             ))}
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
