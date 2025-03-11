@@ -289,7 +289,7 @@
         {
             "id": 1,
             "title": "Black Sweatshirt",
-            "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide  all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
+            "description": "100% Bio-washed Cotton – makes the fabric extra soft & silky. Flexible ribbed crew neck. Precisely stitched with no pilling & no fading. Provide all-time comfort. Anytime, anywhere. Infinite range of matte-finish HD prints.",
             "category_id": 2,
             "type_id": 10,
             "brand": "Nike",
@@ -304,11 +304,11 @@
                 "Blue"
             ],
             "discount": 20,
-            "thumbnail": "https://codedev.b-cdn.net/products/sweatshirt-black.jpg",
+            "thumbnail": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
             "images": [
-                "https://codedev.b-cdn.net/products/sweatshirt-black.jpg",
-                "https://codedev.b-cdn.net/products/woman-black-shirt-giving-neutral-flirtatious-poses.jpg",
-                "https://codedev.b-cdn.net/products/woman-holding-coffee-cup-smiling.jpg"
+                "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+                "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg",
+                "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg"
             ],
             "rating": 4.5
         },
@@ -329,11 +329,11 @@
                 "White"
             ],
             "discount": 15,
+            "thumbnail": "https://images.pexels.com/photos/9558601/pexels-photo-9558601.jpeg",
             "images": [
-                "https://codedev.b-cdn.net/products/tshirt-white.jpg",
-                "https://codedev.b-cdn.net/products/tshirt-white.jpg"
+                "https://images.pexels.com/photos/9558601/pexels-photo-9558601.jpeg",
+                "https://images.pexels.com/photos/9558602/pexels-photo-9558602.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/tshirt-white.jpg",
             "rating": 4.5
         },
         {
@@ -353,11 +353,11 @@
                 "Purple"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
             "images": [
-                "hoodie-purple1.jpg",
-                "hoodie-purple2.jpg"
+                "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
+                "https://images.pexels.com/photos/9558698/pexels-photo-9558698.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/hoodie-purple.jpg",
             "rating": 4.6
         },
         {
@@ -377,11 +377,11 @@
                 "White"
             ],
             "discount": 5,
+            "thumbnail": "https://images.pexels.com/photos/9558700/pexels-photo-9558700.jpeg",
             "images": [
-                "dress-white-leaves1.jpg",
-                "dress-white-leaves2.jpg"
+                "https://images.pexels.com/photos/9558700/pexels-photo-9558700.jpeg",
+                "https://images.pexels.com/photos/9558701/pexels-photo-9558701.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/dress-white-leaves.jpg",
             "rating": 4.7
         },
         {
@@ -401,11 +401,11 @@
                 "White"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
             "images": [
-                "crop-top-white1.jpg",
-                "crop-top-white2.jpg"
+                "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+                "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/crop-top-white.jpeg",
             "rating": 4.3
         },
         {
@@ -425,11 +425,11 @@
                 "Black"
             ],
             "discount": 15,
+            "thumbnail": "https://images.pexels.com/photos/9558702/pexels-photo-9558702.jpeg",
             "images": [
-                "shorts-black1.jpg",
-                "shorts-black2.jpg"
+                "https://images.pexels.com/photos/9558702/pexels-photo-9558702.jpeg",
+                "https://images.pexels.com/photos/9558703/pexels-photo-9558703.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/shorts-black.jpeg",
             "rating": 4.5
         },
         {
@@ -449,11 +449,11 @@
                 "Blue"
             ],
             "discount": 10,
+            "thumbnail": "https://images.pexels.com/photos/9558704/pexels-photo-9558704.jpeg",
             "images": [
-                "jeans-blue1.jpg",
-                "jeans-blue2.jpg"
+                "https://images.pexels.com/photos/9558704/pexels-photo-9558704.jpeg",
+                "https://images.pexels.com/photos/9558705/pexels-photo-9558705.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/jeans-blue.jpeg",
             "rating": 4.8
         },
         {
@@ -473,11 +473,11 @@
                 "Gray"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
             "images": [
-                "sweatshirt-gray1.jpg",
-                "sweatshirt-gray2.jpg"
+                "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
+                "https://images.pexels.com/photos/9558698/pexels-photo-9558698.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/sweatshirt-crewneck.jpeg",
             "rating": 4.6
         },
         {
@@ -497,11 +497,11 @@
                 "Blue"
             ],
             "discount": 15,
+            "thumbnail": "https://images.pexels.com/photos/9558706/pexels-photo-9558706.jpeg",
             "images": [
-                "shorts-denim1.jpg",
-                "shorts-denim2.jpg"
+                "https://images.pexels.com/photos/9558706/pexels-photo-9558706.jpeg",
+                "https://images.pexels.com/photos/9558707/pexels-photo-9558707.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/shorts-denim.jpeg",
             "rating": 4.7
         },
         {
@@ -521,11 +521,11 @@
                 "Black"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
             "images": [
-                "tshirt-black1.jpg",
-                "tshirt-black2.jpg"
+                "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+                "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/tshirt-black.jpg",
             "rating": 4.5
         },
         {
@@ -545,11 +545,11 @@
                 "Blue"
             ],
             "discount": 15,
+            "thumbnail": "https://images.pexels.com/photos/9558708/pexels-photo-9558708.jpeg",
             "images": [
-                "crop-top-blue-flower1.jpg",
-                "crop-top-blue-flower2.jpg"
+                "https://images.pexels.com/photos/9558708/pexels-photo-9558708.jpeg",
+                "https://images.pexels.com/photos/9558709/pexels-photo-9558709.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/crop-top-blue-flower.jpeg",
             "rating": 4.3
         },
         {
@@ -569,11 +569,11 @@
                 "Black"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
             "images": [
-                "crop-top-black1.jpg",
-                "crop-top-black2.jpg"
+                "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+                "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/crop-top-black.jpeg",
             "rating": 4.2
         },
         {
@@ -593,11 +593,11 @@
                 "Black"
             ],
             "discount": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
             "images": [
-                "black-tshirt1.jpg",
-                "black-tshirt2.jpg"
+                "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+                "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/black-tshirt.jpeg",
             "rating": 4.5
         },
         {
@@ -617,11 +617,11 @@
                 "White"
             ],
             "discount": 15,
+            "thumbnail": "https://images.pexels.com/photos/9558710/pexels-photo-9558710.jpeg",
             "images": [
-                "white-hoodie1.jpg",
-                "white-hoodie2.jpg"
+                "https://images.pexels.com/photos/9558710/pexels-photo-9558710.jpeg",
+                "https://images.pexels.com/photos/9558711/pexels-photo-9558711.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/white-hoodie.jpeg",
             "rating": 4.7
         },
         {
@@ -641,11 +641,11 @@
                 "Blue"
             ],
             "discount": 20,
+            "thumbnail": "https://images.pexels.com/photos/9558712/pexels-photo-9558712.jpeg",
             "images": [
-                "blue-jeans1.jpg",
-                "blue-jeans2.jpg"
+                "https://images.pexels.com/photos/9558712/pexels-photo-9558712.jpeg",
+                "https://images.pexels.com/photos/9558713/pexels-photo-9558713.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/blue-jeans.jpg",
             "rating": 4.6
         },
         {
@@ -665,11 +665,11 @@
                 "Gray"
             ],
             "discount": 10,
+            "thumbnail": "https://images.pexels.com/photos/9558714/pexels-photo-9558714.jpeg",
             "images": [
-                "gray-shorts1.jpg",
-                "gray-shorts2.jpg"
+                "https://images.pexels.com/photos/9558714/pexels-photo-9558714.jpeg",
+                "https://images.pexels.com/photos/9558715/pexels-photo-9558715.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/gray-shorts.jpg",
             "rating": 4.4
         },
         {
@@ -689,11 +689,11 @@
                 "Black"
             ],
             "discount": 15,
+            "thumbnail": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
             "images": [
-                "black-hoodie1.jpg",
-                "black-hoodie2.jpg"
+                "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
+                "https://images.pexels.com/photos/9558698/pexels-photo-9558698.jpeg"
             ],
-            "thumbnail": "https://codedev.b-cdn.net/products/black-hoodie.jpeg",
             "rating": 4.8
         }
     ]
