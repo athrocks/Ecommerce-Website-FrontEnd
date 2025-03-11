@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  HeroSection,
-  NewArrivals,
-  Category,
-  Footer,
-} from "./components";
+import { HeroSection, NewArrivals, Category, Footer } from "./components";
 import content from "./data/content.json";
 
 function Shop() {
@@ -12,12 +7,13 @@ function Shop() {
     <div>
       <HeroSection />
       <NewArrivals />
-      {content?.categories &&
-        content?.categories?.map((item, index) => (
+
+      {content?.pages?.shop?.sections &&
+        content?.pages?.shop?.sections?.map((item, index) => (
           <Category key={item?.title + index} {...item} />
         ))}
 
-      <Footer content={content?.footer}/>
+      <Footer content={content?.footer} />
     </div>
   );
 }
