@@ -353,10 +353,10 @@
                 "Purple"
             ],
             "discount": 10,
-            "thumbnail": "https://images.pexels.com/photos/6311317/pexels-photo-6311317.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "thumbnail": "https://images.unsplash.com/photo-1565693413579-8a73fde1c78a",
             "images": [
-                "https://images.pexels.com/photos/16297702/pexels-photo-16297702/free-photo-of-woman-in-a-pink-tracksuit-sitting-on-a-chair-and-leaning-back.jpeg?auto=compress&cs=tinysrgb&w=600",
-                "https://images.pexels.com/photos/13430508/pexels-photo-13430508.jpeg?auto=compress&cs=tinysrgb&w=600"
+                "https://images.unsplash.com/photo-1565693413579-8a73fde1c78a",
+                "https://images.unsplash.com/photo-1554568218-0f1715e72254"
             ],
             "rating": 4.6
         },
@@ -401,10 +401,10 @@
                 "White"
             ],
             "discount": 10,
-            "thumbnail": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+            "thumbnail": "https://images.unsplash.com/photo-1519278409-1f56fdda7fe5",
             "images": [
-                "https://images.unsplash.com/photo-1542272604-787c3835535d",
-                "https://images.unsplash.com/photo-1582552938357-32b906df40cb"
+                "https://images.unsplash.com/photo-1519278409-1f56fdda7fe5",
+                "https://images.unsplash.com/photo-1583744946564-b52d5a3419a3"
             ],
             "rating": 4.3
         },
@@ -473,10 +473,10 @@
                 "Gray"
             ],
             "discount": 10,
-            "thumbnail": "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4",
+            "thumbnail": "https://images.unsplash.com/photo-1617151669222-4640b72c768c",
             "images": [
-                "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4",
-                "https://images.unsplash.com/photo-1604671801908-6f0c6a092c05"
+                "https://images.unsplash.com/photo-1617151669222-4640b72c768c",
+                "https://images.unsplash.com/photo-1598554747436-c9293d6a588f"
             ],
             "rating": 4.6
         },
@@ -545,10 +545,10 @@
                 "Blue"
             ],
             "discount": 15,
-            "thumbnail": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2",
+            "thumbnail": "https://images.unsplash.com/photo-1588187284031-3ebc747b86c6",
             "images": [
-                "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2",
-                "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf"
+                "https://images.unsplash.com/photo-1588187284031-3ebc747b86c6",
+                "https://images.unsplash.com/photo-1563826904577-6b87f82a2299"
             ],
             "rating": 4.3
         },
@@ -617,10 +617,10 @@
                 "White"
             ],
             "discount": 15,
-            "thumbnail": "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4",
+            "thumbnail": "https://images.unsplash.com/photo-1542827425-1d1dcb08d3f2",
             "images": [
-                "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4",
-                "https://images.unsplash.com/photo-1604671801908-6f0c6a092c05"
+                "https://images.unsplash.com/photo-1542827425-1d1dcb08d3f2",
+                "https://images.unsplash.com/photo-1556821840-3a63f95609a7"
             ],
             "rating": 4.7
         },
@@ -665,10 +665,10 @@
                 "Gray"
             ],
             "discount": 10,
-            "thumbnail": "https://images.pexels.com/photos/8173446/pexels-photo-8173446.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "thumbnail": "https://images.unsplash.com/photo-1593485589740-95b065b4f475",
             "images": [
-                "https://images.pexels.com/photos/8899533/pexels-photo-8899533.jpeg?auto=compress&cs=tinysrgb&w=600",
-                "https://images.pexels.com/photos/7254225/pexels-photo-7254225.jpeg?auto=compress&cs=tinysrgb&w=600"
+                "https://images.unsplash.com/photo-1593485589740-95b065b4f475",
+                "https://images.unsplash.com/photo-1617250243376-2c692eb4ab94"
             ],
             "rating": 4.4
         },
@@ -689,10 +689,10 @@
                 "Black"
             ],
             "discount": 15,
-            "thumbnail": "https://images.unsplash.com/photo-1605908502724-9093a79a1b39",
+            "thumbnail": "https://images.unsplash.com/photo-1556821840-5a7f2daea6fc",
             "images": [
-                "https://images.unsplash.com/photo-1605908502724-9093a79a1b39",
-                "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb"
+                "https://images.unsplash.com/photo-1556821840-5a7f2daea6fc",
+                "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80"
             ],
             "rating": 4.8
         }
