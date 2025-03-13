@@ -7,7 +7,7 @@ import {
   SizeFilter,
 } from "../../components";
 import content from "../../data/content.json";
-import {ProductCard} from "..";
+import ProductCard from "./ProductCard";
 
 const categories = content?.categories;
 
@@ -56,7 +56,7 @@ const ProductListPage = ({ categoryType }) => {
               <ProductCard
                 key={item?.id + "_" + index}
                 {...item}
-                title={item?.name}
+                // title={item?.name}
               />
             ))}
           </div>

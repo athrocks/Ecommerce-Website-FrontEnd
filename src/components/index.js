@@ -17,7 +17,14 @@ import ColorsFilter from "./Filters/ColorsFilter";
 import PriceFilter from "./Filters/PriceFilter";
 import SizeFilter from "./Filters/SizeFilter";
 import SvgFavourite from "./common/SvgFavourite";
-
+import BreadCrumb from "./Breadcrumb/Breadcrumb";
+import SvgStarIcon from "./common/SvgStarIcon";
+import SvgEmptyStar from "./common/SvgEmptyStar";
+import Rating from "./Rating/Rating";
+import SvgReturn from "./common/SvgReturn";
+import SvgShipping from "./common/SvgShipping";
+import SvgCloth from "./common/SvgCloth";
+import SvgCreditCard from "./common/SvgCreditCard";
 
 export {
   Navigation,
@@ -38,5 +45,13 @@ export {
   ColorsFilter,
   PriceFilter,
   SizeFilter,
-  SvgFavourite
+  SvgFavourite,
+  BreadCrumb,
+  SvgStarIcon,
+  SvgEmptyStar,
+  Rating,
+  SvgReturn,
+  SvgShipping,
+  SvgCloth,
+  SvgCreditCard,
 };
