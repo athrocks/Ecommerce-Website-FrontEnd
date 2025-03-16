@@ -25,6 +25,7 @@ import SvgReturn from "./common/SvgReturn";
 import SvgShipping from "./common/SvgShipping";
 import SvgCloth from "./common/SvgCloth";
 import SvgCreditCard from "./common/SvgCreditCard";
+import Spinner from "./Spinner/Spinner";
 
 export {
   Navigation,
@@ -54,4 +55,5 @@ export {
   SvgShipping,
   SvgCloth,
   SvgCreditCard,
+  Spinner,
 };
