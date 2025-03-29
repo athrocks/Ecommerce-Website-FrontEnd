@@ -26,6 +26,7 @@ import SvgShipping from "./common/SvgShipping";
 import SvgCloth from "./common/SvgCloth";
 import SvgCreditCard from "./common/SvgCreditCard";
 import Spinner from "./Spinner/Spinner";
+import GoogleSignIn from "./Buttons/GoogleSignIn";
 
 export {
   Navigation,
@@ -56,4 +57,5 @@ export {
   SvgCloth,
   SvgCreditCard,
   Spinner,
+  GoogleSignIn,
 };
