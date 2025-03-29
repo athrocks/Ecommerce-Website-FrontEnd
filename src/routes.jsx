@@ -7,6 +7,7 @@ import ProductDetails from "./pages/ProductDetailPage/ProductDetails";
 import AuthenticationWrapper from "./pages/AuthenticationWrapper";
 import Register from "./pages/Register/Register";
 import Login from "./pages/Login/Login";
+import OAuth2LoginCallback from "./pages/OAuth2LoginCallback";
 
 const router = createBrowserRouter(
   [
@@ -47,6 +48,10 @@ const router = createBrowserRouter(
         },
       ],
     },
+    {
+      path: "/oauth2/callback",
+      element: <OAuth2LoginCallback />,
+    }
   ],
   {
     future: {

@@ -1,14 +1,15 @@
-import React from "react";
+import React, { useCallback } from "react";
 import GoogleLogo from "../../assets/img/Google.png";
-
-// const handleClick = useCallback(() => {
-//   window.location.href = API_BASE_URL + "/oauth2/authorization/google";
-// }, []);
+import { API_BASE_URL } from '../../api/constant'
 
 function GoogleSignIn() {
+  const handleClick = useCallback(() => {
+    window.location.href = API_BASE_URL + "/oauth2/authorization/google";
+  }, []);
+
   return (
     <button
-      // onClick={handleClick}
+      onClick={handleClick}
       className="flex justify-center items-center border w-full rounded border-gray-600 h-[48px] hover:bg-slate-50"
     >
       <img src={GoogleLogo} alt="google-icon" />
